@@ -12,3 +12,5 @@ Project developed based on the book "Hands-on Machine Learning with Scikit-Learn
 The original repo can be found [here](https://github.com/ageron/handson-ml2)
 
 Implementations tested: Linear Regressor, Decision Trees and Random Forest
+
+Final r2 score: 0.83
