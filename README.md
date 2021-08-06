@@ -13,4 +13,4 @@ The original repo can be found [here](https://github.com/ageron/handson-ml2)
 
 Implementations tested: Linear Regressor, Decision Trees and Random Forest
 
-Final r2 score: 0.83
+Final R2 score (coefficient of determination): 0.83
